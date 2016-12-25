@@ -1,4 +1,4 @@
-Developing Data Products Course Project
+Developing Data Products Course Project Presentation
 ========================================================
 author: Shibashis Mukherjee
 date: 12/25/2016
@@ -30,4 +30,6 @@ This simple application can help people decide whether the price they are paying
 The Price Analysis Application
 ========================================================
 ![Diamond Price Analysis App](DPAnalysis.png)
-github repo: 
+repo: https://github.com/shibashismukherjee/ddp.git
+
+App: https://shibashis-mukherjee.shinyapps.io/DiamondPrices/
